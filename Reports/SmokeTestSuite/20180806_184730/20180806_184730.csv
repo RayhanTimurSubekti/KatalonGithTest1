@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SmokeTestSuite,Chrome 68.0.3440.84,,2018-08-06 18:47:31,2018-08-06 18:48:16,"44,310s",PASSED
+,,,,,,
+Test Cases/LoginTest1,Chrome 68.0.3440.84,,2018-08-06 18:47:32,2018-08-06 18:48:16,"43,997s",PASSED
+openBrowser,Chrome 68.0.3440.84,,2018-08-06 18:47:32,2018-08-06 18:47:34,"2,049s",PASSED
+navigateToUrl,Chrome 68.0.3440.84,,2018-08-06 18:47:34,2018-08-06 18:47:38,"4,317s",PASSED
+setText,Chrome 68.0.3440.84,,2018-08-06 18:47:38,2018-08-06 18:47:39,"0,306s",PASSED
+setEncryptedText,Chrome 68.0.3440.84,,2018-08-06 18:47:39,2018-08-06 18:47:39,"0,221s",PASSED
+click,Chrome 68.0.3440.84,,2018-08-06 18:47:39,2018-08-06 18:48:16,"36,690s",PASSED
+closeBrowser,Chrome 68.0.3440.84,,2018-08-06 18:48:16,2018-08-06 18:48:16,"0,153s",PASSED
